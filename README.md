@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on building java projects and improving my DSA skills.<br>I'm looking to collaborate on beginner-friendly web development or Java projects.<br>I'm looking for help with advanced Data Structures and real world project ideas.<br>I'm currently learning Java, Data Structures & algorithms and basic Web Development.
+Currently working on java projects and improving my DSA skills.<br>I'm looking to collaborate on beginner-friendly web development or Java projects.<br>I'm looking for help with advanced Data Structures and real world project ideas.<br>I'm currently learning Java, Data Structures & algorithms and basic Web Development.
 
 
 ## 🌐 Socials:
